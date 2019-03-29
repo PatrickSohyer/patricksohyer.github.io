@@ -743,7 +743,7 @@ HR {
 #left {
   position: relative;
   bottom: 1rem;
-  background-color: #8B210F;
+  background-image: url(darkred.jpg)
 }
 
 .carousel {
