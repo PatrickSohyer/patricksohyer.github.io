@@ -707,18 +707,9 @@ HR {
   padding-top: 4rem;
 }
 
-/* #Webdev {
-  letter-spacing: 2px;
-  font-size: 30px;
-} */
 .rightcl {
   color: #8B210F;
 }
-
-/* .navbar-toggler {
-  border-color: white;
-  background-color: #8E2311;
-} */
 
 @media only screen and (max-width: 1024px) {
   #Sohyer {
@@ -753,6 +744,10 @@ HR {
   position: relative;
   bottom: 1rem;
   background-color: #8B210F;
+}
+
+.carousel {
+  height: 38rem;
 }
 
 .ronde {
